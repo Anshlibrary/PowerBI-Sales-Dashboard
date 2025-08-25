@@ -15,19 +15,22 @@ This project analyzes coffee shop sales data using SQL for data transformation a
 - `Queries.sql` → SQL queries used for data preparation
 
 ## 📸 Dashboard Preview
- <img src="https://github.com/Anshlibrary/PowerBI-Sales-Dashboard/blob/main/Dashboard_View.PNG" width="800" />
+ <img src="https://github.com/Anshlibrary/PowerBI-Sales-Dashboard/blob/main/All_Photos/Dashboard_View.PNG" width="800" />
+ 
 ## 📸 Find Sales Details Calender Days basis By Hover 
- <img src="https://github.com/Anshlibrary/PowerBI-Sales-Dashboard/blob/main/Dashboard_View.PNG" width="800" />
+ <img src="https://github.com/Anshlibrary/PowerBI-Sales-Dashboard/blob/main/All_Photos/Calender_Days_Hover.PNG" width="800" />
+ 
 ## 📸 Find Sales Details Days & Hours  basis By Hover 
- <img src="https://github.com/Anshlibrary/PowerBI-Sales-Dashboard/blob/main/Dashboard_View.PNG" width="800" />
-## 📸 Find Sales Details Days & Hours  basis By Hover 
- <img src="https://github.com/Anshlibrary/PowerBI-Sales-Dashboard/blob/main/Dashboard_View.PNG" width="800" />
+ <img src="https://github.com/Anshlibrary/PowerBI-Sales-Dashboard/blob/main/All_Photos/Days&Hours.PNG" width="800" />
+ 
 ## 📸 Find Single Day Sales Details with Hover while select any Day in calender
- <img src="https://github.com/Anshlibrary/PowerBI-Sales-Dashboard/blob/main/Dashboard_View.PNG" width="800" />
-## 📸 Find Weekend wise in Sales by Weekday/Weekend
- <img src="https://github.com/Anshlibrary/PowerBI-Sales-Dashboard/blob/main/Dashboard_View.PNG" width="800" />
+ <img src="https://github.com/Anshlibrary/PowerBI-Sales-Dashboard/blob/main/All_Photos/Single_Day_Sales_Data.PNG" width="800" />
+ 
+## 📸 Find Weekend wise Sales by Weekday/Weekend
+ <img src="https://github.com/Anshlibrary/PowerBI-Sales-Dashboard/blob/main/All_Photos/Sales_By_Weeked.PNG" width="800" />
+ 
  ## 📸 Find Sales by product Category 
- <img src="https://github.com/Anshlibrary/PowerBI-Sales-Dashboard/blob/main/Dashboard_View.PNG" width="800" />
+ <img src="https://github.com/Anshlibrary/PowerBI-Sales-Dashboard/blob/main/All_Photos/CaptureProduct_Category.PNG" width="800" />
 
   ## 📸 Data Model 
  <img src="https://github.com/Anshlibrary/PowerBI-Sales-Dashboard/blob/main/Data_Model.PNG" width="800" />
