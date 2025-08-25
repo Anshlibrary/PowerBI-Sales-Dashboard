@@ -15,7 +15,7 @@ This project analyzes coffee shop sales data using SQL for data transformation a
 - `Queries.sql` → SQL queries used for data preparation
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](Dashboard_View.png)
+ <img src="https://github.com/Anshlibrary/PowerBI-Sales-Dashboard/Dashboard_View.PNG" width="400" />
 
 ## 🛠️ Tools Used
 - Power BI Desktop
